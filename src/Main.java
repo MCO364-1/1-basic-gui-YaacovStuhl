@@ -1,13 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 public class Main {
-    static int c;
-
     public static void main(String[] args) {
         JFrame window = new JFrame();
         window.setTitle("Number Adder");
