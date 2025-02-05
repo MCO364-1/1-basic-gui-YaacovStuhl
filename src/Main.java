@@ -5,6 +5,7 @@ import java.awt.event.WindowEvent;
 
 public class Main {
     public static void main(String[] args) {
+
         JFrame window = new JFrame();
         window.setTitle("Number Adder");
         window.setSize(800, 600);
