@@ -3,9 +3,8 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class Main {
+public class NumberAdder {
     public static void main(String[] args) {
-
         JFrame window = new JFrame();
         window.setTitle("Number Adder");
         window.setSize(800, 600);
@@ -32,10 +31,3 @@ public class Main {
         });
     }
 }
-
-
-
-
-
-
-
